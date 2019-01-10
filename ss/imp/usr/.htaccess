@@ -1,0 +1,4 @@
+Options All
+Order allow,deny
+allow from all
+
