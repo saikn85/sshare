@@ -13,4 +13,4 @@
 6. Before operating, load the database files for smooth operation.
 ---
 
-**Well I'm proud of this one, as this was my first ever project that applied the concpets of software engineering; even though this one is not that perfect.**
+**Well I'm proud of this one, as this was my first ever project that applied the concepts of software engineering; even though this one is not that perfect.**
