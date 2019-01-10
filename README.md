@@ -1,7 +1,7 @@
-## Notes:
-
 # Important:
 **When you install the servers, please make sure that, the passwords are updated in the files that require a connection to database.**
+---
+## Notes:
 
 1. First thing first, go and download all the Microsoft© C++ Redistributables, based on the CPU’s Arch. If the system has a 64bit Arch. I suggest that you download both the 32bit as well as the 64bit versions of the Microsoft© C++ Redistributables.
 2. Next, install either WAMP© Server or download Bitnami’s WAMP Server (Recommended).
