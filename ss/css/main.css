@@ -1,0 +1,54 @@
+a{
+    text-decoration: none; color: wheat; font-size: 15px;
+    text-align: center;
+}
+.one{
+    text-decoration: none; display: inline-block; padding: 0 20px;
+}
+
+.two{
+    padding: 10px 8px 5px 8px;
+}
+
+body{
+    background-color: black; color: wheat; font-family: cursive;
+}
+
+.button{
+    background: #3300cc; color: white; padding: 15px 32px; 
+    text-decoration: none; display: inline-block; font-size: 16px; 
+    margin: 4px 2px; cursor: pointer; position: relative; 
+    left: 50%; top: 6%; margin-right: -50%; text-align: center;
+    transform: translate(-50%, -50%);
+}
+
+header { padding: 15px 15px 15px 15px; }
+
+.but{
+    background-color: wheat; color: #000; padding: 10px 10px 10px 10px;
+    text-align: center; text-decoration: none; cursor: auto; 
+    border:2px #000 groove; font-size: 15px;
+}
+header .row{
+    display: flex; align-items: center;
+}
+
+.jumbotron {
+    display: flex; background-repeat: no-repeat; background-size: cover;
+    align-items: center; color: #ffffff; height: 410px;
+    margin-top: 20px; text-shadow: 0.25px 0.25px 0.25px #000000; 
+    margin-bottom: 20px; background-image: url('../images/repo.jpg')
+}
+
+header nav{
+    display: flex; justify-content: flex-end;
+}
+
+header{
+    padding: 10px auto; margin: 0; font-size: 20px;
+}
+
+footer{
+  font-size: 20px; text-align: center; padding:10px 10px 10px 10px; 
+  margin:auto;
+}
